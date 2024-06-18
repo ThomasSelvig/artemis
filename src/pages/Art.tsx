@@ -51,20 +51,20 @@ export function Art() {
           projects={[
             {
               title: "Mona Lisa",
-              image: "/images/content/ai-monalisa-1.jpg",
+              image: "/images/content/ai-monalisa-1.webp",
             },
             {
               title: "The Last Supper",
-              image: "/images/content/ai-thelastsupper-1.jpg",
+              image: "/images/content/ai-thelastsupper-1.webp",
             },
             {
               // title: "Homo Vitruvianus",
               title: "Vitruvianus",
-              image: "/images/content/ai-homo vitruvianus-1.jpg",
+              image: "/images/content/ai-homo vitruvianus-1.webp",
             },
             {
               title: "Starry Afternoon",
-              image: "/images/content/ai-starry-2.jpg",
+              image: "/images/content/ai-starry-2.webp",
             },
           ]}
         />
@@ -74,15 +74,15 @@ export function Art() {
           projects={[
             {
               title: "Abstract I",
-              image: "/images/content/ai-picasso-1.jpg",
+              image: "/images/content/ai-picasso-1.webp",
             },
             {
               title: "Abstract II",
-              image: "/images/content/ai-picasso-2.jpg",
+              image: "/images/content/ai-picasso-2.webp",
             },
             {
               title: "Abstract III",
-              image: "/images/content/ai-picasso-3.jpg",
+              image: "/images/content/ai-picasso-3.webp",
             },
           ]}
         />
@@ -92,11 +92,11 @@ export function Art() {
           projects={[
             {
               title: "Starry Night",
-              image: "/images/content/ai-starryframed-2.jpg",
+              image: "/images/content/ai-starryframed-2.webp",
             },
             {
               title: "The Self",
-              image: "/images/content/ai-vangogh-1.jpg",
+              image: "/images/content/ai-vangogh-1.webp",
             },
           ]}
         /> */}
@@ -106,11 +106,11 @@ export function Art() {
           projects={[
             {
               title: "The Scream",
-              image: "/images/content/ai-screamframed-1.jpg",
+              image: "/images/content/ai-screamframed-1.webp",
             },
             {
               title: "Vampyr",
-              image: "/images/content/ai-vampyrskrikframed-1.jpg",
+              image: "/images/content/ai-vampyrskrikframed-1.webp",
             },
           ]}
         />
