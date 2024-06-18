@@ -12,7 +12,7 @@ export function Home() {
     <>
       <div className="min-h-screen">
         <Header />
-        <div className="container mx-auto px-4 md:px-10 pt-24">
+        <div className="container mx-auto px-4 md:px-10 pt-24 2xl:mt-20">
           <h1 className="max-w-sm md:max-w-md lg:max-w-2xl font-serif text-3xl md:text-4xl lg:text-6xl text-fg-heading font-light leading-tight">
             Artemis Brokers: Exquisite Paintings, Elegant Decor, Distinguished
             Prestige
